@@ -20,7 +20,7 @@ limiter = Limiter(
     headers_enabled=True
 )
 
-WORK_FACTOR = 2_000_000 ##---------##
+WORK_FACTOR = 2_000 ##---------##
 PASSWORD_LENGTH = 10
 SALT_SIZE_BYTES = 16
 
